@@ -4,9 +4,11 @@
 
 In this lesson we have seen what Cherry Picking is and when to use it. Now we will do some exercises to test how this function works in a real repository.
 
+**Please answer all the questions in the `README.md` of your project below each of them.**
+
 1.  Fork this [repository](https://github.com/djabif/git-challenge-part3)
 
-2.  Create a new branch "feature-a"
+2.  Create a new branch `feature-a`
 
     a. Change anything and commit. `(commit 1)`
 
