@@ -6,7 +6,7 @@ In this lesson we have seen what Cherry Picking is and when to use it. Now we wi
 
 **Please answer all the questions in the `README.md` of your project below each of them.**
 
-1.  Fork this [repository](https://github.com/djabif/git-challenge-part3)
+1.   Clone this repository on your local machine and push it to a new repository on your github account. Once you are done, copy your repository URL into the box provided on the learning platform.
 
 2.  Create a new branch `feature-a`
 
